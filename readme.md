@@ -1,4 +1,4 @@
-# The diffrence between var const let
+# The difference between var const let
 
 ### Const and Let
 
